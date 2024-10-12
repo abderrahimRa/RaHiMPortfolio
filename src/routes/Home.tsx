@@ -76,7 +76,7 @@ const Home: React.FC = () => {
           >
             <div className="inset-0 rounded-full bg-[#46b19b] opacity-0 blur-xl transition-all duration-300 group-hover:opacity-75 md:w-full lg:pt-6"></div>
             <img
-              src="/Photos/profile-pic.png"
+              src="https://i.ibb.co/VSmbgb3/profile.png"
               alt="Profile"
               className="relative z-10 h-44 w-40 rounded-full border-4 border-[#3c9484] object-cover transition-all duration-300 hover:shadow-[0_0_15px_#3c9484] group-hover:border-[#46b19b] sm:h-40 sm:w-40 md:h-52 md:w-52 lg:h-60 lg:w-60"
             />
