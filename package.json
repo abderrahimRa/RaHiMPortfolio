@@ -1,5 +1,5 @@
 {
-  "homepage": "https://github.com/abderrahimRa/RaHiMPortfolio",
+  "homepage": "https://abderrahimRa.github.io/RaHiMPortfolio",
   "name": "portfolio",
   "private": true,
   "version": "0.0.0",
@@ -33,7 +33,7 @@
     "@eslint/js": "^9.9.0",
     "@types/react": "^18.3.3",
     "@types/react-dom": "^18.3.0",
-    "@vitejs/plugin-react": "^4.3.1",
+    "@vitejs/plugin-react": "^4.3.2",
     "autoprefixer": "^10.4.20",
     "eslint": "^9.9.0",
     "eslint-plugin-react-hooks": "^5.1.0-rc.0",
